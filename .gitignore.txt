@@ -1,0 +1,47 @@
+# Ignore the following folders (Unity's generated files)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity auto-generated files
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+
+# Unity 3D Generated File On Crash Reports
+sysinfo.txt
+
+# User settings
+UserSettings/
+
+# Other files
+*.apk
+*.aab
+*.idb
+
+# Ignore crash reports, log files, and other unwanted files
+CrashReports/
+*.stacktrace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
